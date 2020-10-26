@@ -64,6 +64,9 @@ func Read(f io.Reader) (*TELEM, error) {
 		"WNDM",
 		"MWET",
 		"AALP",
+		"VPTS",
+		"DISP",
+		"HD8",
 		
 	}
 
